@@ -1,0 +1,31 @@
+*{
+    color: #4f6ecb;
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    font-size: xx-large;
+    margin: auto;
+    width: 640px; 
+    padding: 300px;
+    font-family:sans-serif; 
+    color: #2E475D;   
+    background: url("C:/A/Submit Button With Icon/bg.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.form {
+    padding-left: 1.375rem;
+    font-size: 25px;
+    padding: 7px;
+}
+
+.form-control {
+    position: absolute;
+    width: 60px;
+    line-height: 50px;
+    text-align: center;
+    color: #aaa;
+}
